@@ -3,7 +3,6 @@
   "subtitle": "Eine Sammlung meiner Apps",
   "description": "",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
-  "website": "https://flhenke.de",
   "tintColor": "#ff952b",
   "featuredApps": [
     "com.flhenke.Habits"
@@ -33,8 +32,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },
-      "patreon": {}
+      }
     }
   ],
   "news": []

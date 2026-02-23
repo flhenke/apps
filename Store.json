@@ -25,7 +25,7 @@
           "downloadURL": "https://github.com/flhenke/apps/blob/3c7b686bc53d2c9830c4654d0ff4573a944e7d91/Habits.ipa",
           "size": 4900000,
           "version": "1.0",
-          "buildVersion": null,
+          "buildVersion": "1",
           "date": "2026-02-23T17:52:00+01:00",
           "localizedDescription": "Eine App, die einem das tracken der eigenen Habits erleichtert.",
           "minOSVersion": "26.0"
